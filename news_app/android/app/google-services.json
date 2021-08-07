@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "241403801499",
+    "project_id": "darpan-app-32005",
+    "storage_bucket": "darpan-app-32005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241403801499:android:c0d8094ea82355c6aafb3e",
+        "android_client_info": {
+          "package_name": "com.darpan.dailynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241403801499-2g6oan846qi2sjrr8l7j8l8bnannlcnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darpan.dailynews",
+            "certificate_hash": "c39a3d4f0465553901309b01395888276927bdaf"
+          }
+        },
+        {
+          "client_id": "241403801499-65tdtq2ou65dgjgq50sj961p4advb0fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darpan.dailynews",
+            "certificate_hash": "8e3158e5a44055049e1b37383eb812dff355059e"
+          }
+        },
+        {
+          "client_id": "241403801499-77jrdt40q42edshi8o6adjh816sdi614.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darpan.dailynews",
+            "certificate_hash": "f801a078f8602da3c231cbc332ed0661653326aa"
+          }
+        },
+        {
+          "client_id": "241403801499-8lqpn2ufcqt33mh805ithcgppsd3fevk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darpan.dailynews",
+            "certificate_hash": "ecc0d07f8a53cacf3f822f18a66ee061f08d9e3d"
+          }
+        },
+        {
+          "client_id": "241403801499-ie05h6eeh63q6f6ua76s9cb0ukhmm1h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darpan.dailynews",
+            "certificate_hash": "a2c91cc9677c1e33717ebd90f52528df0a2bba8f"
+          }
+        },
+        {
+          "client_id": "241403801499-jn95fdt3ek28u4hufgfa2p3s3377fto5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darpan.dailynews",
+            "certificate_hash": "2f99b7b21abbbfb5f3cbd64962efc71df8ba1324"
+          }
+        },
+        {
+          "client_id": "241403801499-droq0i8mrqbarhmk70r9jebtvfv9kloa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxCxYrLxiWOeZRL3NJ9OKAhMJTKQ47wYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241403801499-droq0i8mrqbarhmk70r9jebtvfv9kloa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241403801499-dh2m216ep92u45evsl9kqbm7hqeuou5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.darpan.dailynews"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3081210400345123~8844137461"
+    }
+  ],
+  "configuration_version": "1"
+}

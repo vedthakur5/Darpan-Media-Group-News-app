@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>241403801499-dh2m216ep92u45evsl9kqbm7hqeuou5o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.241403801499-dh2m216ep92u45evsl9kqbm7hqeuou5o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>241403801499-2g6oan846qi2sjrr8l7j8l8bnannlcnt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIFOtqmYjrng5imMNPh-R_RzdYyRx8kqY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>241403801499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.darpan.dailynews</string>
+	<key>PROJECT_ID</key>
+	<string>darpan-app-32005</string>
+	<key>STORAGE_BUCKET</key>
+	<string>darpan-app-32005.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:241403801499:ios:ffc3fdbde86d7763aafb3e</string>
+</dict>
+</plist>
